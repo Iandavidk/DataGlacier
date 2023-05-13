@@ -1,0 +1,1 @@
+Article links: https://medium.com/@eandavid6/logistic-regression-with-scikit-learn-an-introduction-for-non-technical-people-7eda51017fa9
